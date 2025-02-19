@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello nice to meet you, I'm Odi 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatiusOdi&layout=compact)
 
