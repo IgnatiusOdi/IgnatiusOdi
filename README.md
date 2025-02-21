@@ -1,18 +1,20 @@
 ## Hello nice to meet you, I'm Odi 👋
 
+### Checkout My [Portofolio](https://ignatiusodi.github.io/portofolio)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatiusOdi&layout=compact)
 
-<!--
-**IgnatiusOdi/IgnatiusOdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on:
+- warframe-tracker
+- portofolio
+- Daily Coding Problem / Neetcode / Codewars
+- Self improvement
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently interested in:
+* Supabase
+* GraphQL
+* Unit Testing, etc: Jest
+* Godot
+* Japanese Language
+* DaVinci Resolve
+* Creating Youtube Shorts Content / Clip
