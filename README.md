@@ -1,6 +1,6 @@
 ## Hello nice to meet you, I'm Odi 👋
 
-### Checkout My [Portofolio](https://ignatiusodi.github.io/portofolio)
+### Checkout My [Portofolio](https://ignatiusodi.github.io/portfolio)
 
 ### Currently working on:
 - portofolio
