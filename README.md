@@ -10,3 +10,4 @@
 ### Currently interested in:
 * Supabase, GraphQL, Unit Testing (etc: Jest)
 * Godot
+* Trail Run
